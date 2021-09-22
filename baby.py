@@ -8,7 +8,6 @@ else:
     l = ['its','a','baby','boy','girl',' ']
 
 
-l = ['its','a','baby','girl','boy',' ']
 
 
 x = 0
